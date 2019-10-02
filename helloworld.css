@@ -1,3 +1,22 @@
+/* unvisited */
+a:link {
+  color: #3bbf61;
+}
+
+/* visited */
+a:visited {
+  color: #239432;
+}
+
+/* mouse over */
+a:hover {
+  color: #4bfaa8;
+}
+
+/* selected */
+a:active {
+  color: #239432;
+}
 body {
     background-color: rgb(134, 223, 228);
     color: #3A405A;
